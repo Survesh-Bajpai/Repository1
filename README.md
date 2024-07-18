@@ -1,13 +1,16 @@
 # Repository1
- # REVIEW PAPER: QUANTITATIVE CORRELATION BETWEEN US FEDERAL RESERVE INTEREST 
-RATES AND INDIAN RBI RATES (2000-2023) 
+ # RESEARCH-REVIEW PAPER: QUANTITATIVE Deep Learning Predictive Modelling of US FEDERAL RESERVE INTEREST RATES, INDIAN RBI REPO RATES, NIFTY INDEX and Mutual Funds
+ 
 Survesh Bajpai (NISM-PGP04078)
+
 Research Student, NISM.
 Research & Analysis wing of SEBI.
 
 +91-7898696623 
 Surveshb-pgp-2024-25@nism.ac.in 
 Date – 05/07/2024 
+
+
 ## ABSTRACT 
 This paper examines the quantitative correlation between the interest rates set by the US Federal Reserve (Fed) 
 and the Reserve Bank of India (RBI) over the period from 2000 to 2023. Using historical data, we aim to establish 

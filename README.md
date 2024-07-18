@@ -1,7 +1,10 @@
 # Repository1
  # REVIEW PAPER: QUANTITATIVE CORRELATION BETWEEN US FEDERAL RESERVE INTEREST 
 RATES AND INDIAN RBI RATES (2000-2023) 
-Survesh Bajpai (NISM-PGP04078)       
+Survesh Bajpai (NISM-PGP04078)
+Research Student, NISM.
+Research & Analysis wing of SEBI.
+
 +91-7898696623 
 Surveshb-pgp-2024-25@nism.ac.in 
 Date – 05/07/2024 

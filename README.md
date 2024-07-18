@@ -145,6 +145,8 @@ Model-3 3d graphical representation -
 
 
 4) A model-4 takes the predicted NIFTY    data from model-3 as input and predicts the Mutual Fund price action till 2042
+
+Model-4 3d graphical representation -
 ![image](https://github.com/user-attachments/assets/7d63802e-6088-4069-82f9-8b5cec901b5f)
 
 

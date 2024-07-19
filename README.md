@@ -1,7 +1,3 @@
-Sure, I'll format the document to ensure proper headings and design. I'll maintain the image links and other content as provided.
-
----
-
 # RESEARCH-REVIEW PAPER: QUANTITATIVE Deep Learning Predictive Modelling of US FEDERAL RESERVE INTEREST RATES, INDIAN RBI REPO RATES, NIFTY INDEX, and Mutual Funds
 
 **Survesh Bajpai (NISM-PGP04078)**  

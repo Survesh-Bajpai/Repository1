@@ -104,8 +104,6 @@ The regression model shows a statistically significant positive slope, suggestin
 #### Model-4 Predictions
 
 - **Training Data Visualization:**
-  ![image](https://github.com/user-attachments/assets/53ff8d6d-6a24-46f7-aa3a-82ab1e2a4afb)
-  ![image](https://github.com/user-attachments/assets/6fb4207b-a33a-4ae9-b1a2-b4ea2512b359)
   ![image](https://github.com/user-attachments/assets/2f0fbba5-60d8-49ec-8231-f35f972ef0d2)
   ![image](https://github.com/user-attachments/assets/625f8780-22f7-4440-a36f-b6403162373a)
 
